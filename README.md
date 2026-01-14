@@ -36,12 +36,9 @@ const med = {
 ---
 
 ### 📊 GitHub Stats  
-<p align="center">
+![GitHub followers](https://img.shields.io/github/followers/0xm3d)
+![GitHub stars](https://img.shields.io/github/stars/0xm3d)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=0xm3d&show_icons=true&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=0xm3d&layout=compact&theme=tokyonight)
-
-</p>
 
 ---
 
@@ -90,4 +87,7 @@ const med = {
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=BF91F3&height=100&section=footer"/>
 </p>
+
+![test](https://github-readme-stats.vercel.app/api?username=0xm3d)
+
 
