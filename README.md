@@ -1,7 +1,13 @@
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=3500&pause=1000&color=0E75B6&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+0xm3d!;Passionate+Coder+from+Morocco;Always+learning+%26+building" alt="Typing SVG" />
+</p> 
+<p align="center">
+  <img src="https://img.shields.io/github/followers/0xm3d" />
+  <img src="https://img.shields.io/github/stars/0xm3d" />
 </p>
+
+
 
 <!-- 🎬 Intro GIF -->
 <p align="center">
@@ -36,8 +42,6 @@ const med = {
 ---
 
 ### 📊 GitHub Stats  
-![GitHub followers](https://img.shields.io/github/followers/0xm3d)
-![GitHub stars](https://img.shields.io/github/stars/0xm3d)
 
 
 ---
