@@ -138,12 +138,16 @@ drwxr-xr-x  Linux          █████████████░░░░�
 
 </div>
 
-| Repo | Description | Stack |
-|------|-------------|-------|
+<div align="center">
+
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Repo&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Description | Stack |
+|:---:|:---:|:---:|
 | 🎨 [kasper-template](https://github.com/0xm3d/kasper-template) | Responsive Kasper site rebuild | HTML · CSS |
 | 🖼️ [leon-template](https://github.com/0xm3d/leon-template) | Personal portfolio — Leon style | HTML · CSS |
 | 📐 [elzero-template](https://github.com/0xm3d/elzero-template) | Pixel-perfect template clone | HTML |
 | 📊 [dashboard-template](https://github.com/0xm3d/dashboard-template) | Admin dashboard layout | CSS |
+
+</div>
 
 ---
 
