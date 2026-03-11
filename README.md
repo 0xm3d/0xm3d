@@ -70,7 +70,7 @@
 
 ### `$ cat ./stats.log`
 
-<img src="https://streak-stats.demolab.com?user=0xm3d&theme=tokyonight&hide_border=true&background=0d1117&ring=0e75b6&fire=0e75b6&currStreakLabel=0e75b6" />
+
 
 <br/>
 
