@@ -70,9 +70,8 @@
 
 ### `$ cat ./stats.log`
 
-<a href="https://git.io/streak-stats">
-    <img src="http://github-readme-streak-stats.herokuapp.com/?user=0xm3d&theme=tokyonight&hide_border=true&background=0d1117&ring=0e75b6&fire=0e75b6&currStreakLabel=0e75b6" alt="GitHub Streak" />
-</a>
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=0xm3d&theme=tokyonight&hide_border=true&background=0d1117&ring=0e75b6&fire=0e75b6&currStreakLabel=0e75b6)](https://git.io/streak-stats)
+
 <br/>
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=0xm3d&theme=tokyonight" width="95%"/>
