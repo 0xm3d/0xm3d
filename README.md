@@ -1,7 +1,6 @@
 <!-- ═══════════════════════════════════════════════════════════════ -->
 <!--                    0xm3d :: Mohamed BOUHADI                     -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
-<!--
 <div align="center">
 
 ```
@@ -110,4 +109,4 @@
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0a,50:0e75b6,100:0a0a0a&height=120&section=footer" width="100%"/>
--->
+
