@@ -50,7 +50,7 @@ I build web apps for real clients' problems: a tutoring network that loses hours
 
 ### `$ ls ./tech-stack --icons`
 
-<img src="https://skillicons.dev/icons?i=js,html,css,tailwind,vite,nodejs,express,git,linux,figma,jira,vscode&theme=dark" />
+<img src="https://skillicons.dev/icons?i=js,html,css,tailwind,vite,nodejs,express,git,linux,figma,vscode&theme=dark" />
 
 <br/><br/>
 
